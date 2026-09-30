@@ -1,0 +1,6 @@
+﻿# AWS credentials and keys
+*credentials*.csv
+*accessKeys*.csv
+*.pem
+*.ppk
+.env
